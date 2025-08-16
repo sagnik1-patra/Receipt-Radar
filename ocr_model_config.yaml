@@ -1,0 +1,12 @@
+ocr_backend: easyocr
+doctr:
+  detector: db_resnet50
+  recognizer: crnn_vgg16_bn
+easyocr:
+  langs:
+  - en
+  gpu: false
+pytesseract:
+  hint: C:\Program Files\Tesseract-OCR\tesseract.exe
+thresholds:
+  line_merge_dy: 0.02

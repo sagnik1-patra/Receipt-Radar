@@ -1,0 +1,18 @@
+{
+  "files_processed": 987,
+  "tokens_total": 62295,
+  "val_accuracy": 0.9425315033309254,
+  "classes": [
+    "other",
+    "merchant",
+    "date",
+    "subtotal",
+    "tax",
+    "total",
+    "address"
+  ],
+  "confusion_matrix_shape": [
+    6,
+    6
+  ]
+}
