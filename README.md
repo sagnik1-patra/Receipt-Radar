@@ -199,6 +199,5 @@ Model/metrics → preprocessor.pkl, metrics.json, plots in repo root
 
 If you want this README pre-rendered with more screenshots (loss curve, PR curve, overlay examples), just export those PNGs to the repo root and add lines like:
 
-![Training Loss](loss_curve.png)
-![Fraud PR Curve](pr_curve_fraud.png)
-![Example Overlay](overlays/overlay_1712345678901.png)
+![Training Loss](confusion_matrix.png)
+
